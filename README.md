@@ -1,8 +1,8 @@
 <a href="">Back</a>
 <h1>Scalar</h1>
-<img src="s3" style="width:304px;height:228px;">
-<img src="stitle" style="width:304px;height:228px;">
-<img src="s2" style="width:304px;height:228px;">
+<img src="s3.png" style="width:304px;height:228px;">
+<img src="stitle.png" style="width:304px;height:228px;">
+<img src="s2.png" style="width:304px;height:228px;">
 <h2>Project Description</h2>
 <p>	Scalar is an open source, free publishing platform designed for authors to write long-form, born-digital scholarship online. The tool enables the users to build media by multiple sources and combine them with their own writing in a variety of ways (Scalar, 2016). This can be considered a Digital Humanities project, as well as Digital Scholarship because the tool allows the user to publish scholarly text in a variety of creative and interactive ways. For example videos, charts, links, and so much more can be added because in Scalar, “anything can do everything to anything” (Scalar, 2016).
 <h2>Collaboration Statement</h2> 
