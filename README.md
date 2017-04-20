@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NicoleBoccia/collaborativeproject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NicoleBoccia/collaborativeproject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>Scalar</h1>
+Collaborative Project
+(previously called team presentation)
+Document your contributions to the team presentation and explain your approach to collaborative
+scholarship. This portfolio item should contain the following:
+• Project Description (100 words) introducing us to the work undertaken: the digital humanities project/
+platform/tool you engaged with, what you produced using that project, and your research findings.
+• Collaboration Statement (250 words) that explains how you approach collaborative scholarship, with
+examples of work done for the team project as evidence of the approach you describe. How does
+collaboration enrich your academic thinking? Are there any digital materials, approaches, or workflows
+you use when working in a team? How do you situate collaborative research within the digital
+humanities—how does collaboration, as you approach it, advance your stated research agenda?
+• At least 3 images of your team presentation work, providing evidence of the work outlined in your two
+statements (these can be your presentation slides or something else, as long as it demonstrates the
+work you did). These images can appear at any point in the page (they need not all appear at the
+bottom).
